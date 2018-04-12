@@ -1,0 +1,13 @@
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.exe
+C:\Users\Olivier\Documents\GitHub\eyex\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\bin\x86\Debug\AForge.Video.FFMPEG.dll
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe.config
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\bin\x86\Debug\ReadingEyeGaze.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\obj\x86\Debug\AnalyzingEyeGaze.csprojResolveAssemblyReference.cache
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\ReadingEyeGaze\obj\x86\Debug\ReadingEyeGaze.pdb

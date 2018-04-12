@@ -1,0 +1,12 @@
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.exe.config
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.exe
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.pdb
+C:\Users\Olivier\Documents\GitHub\eyex\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.csprojResolveAssemblyReference.cache
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.exe.config
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\bin\Debug\ModelUtpal.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.csprojResolveAssemblyReference.cache
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\ModelUtpal\obj\Debug\ModelUtpal.pdb

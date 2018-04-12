@@ -1,0 +1,15 @@
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\tobii_firmware_upgrade.dll
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\tobii_pro.dll
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\tobii_stream_engine.dll
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\RecordingEyeGaze.exe.config
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\RecordingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\RecordingEyeGaze.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\ModelUtpal.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\ReadingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\Tobii.Research.dll
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\ReadingEyeGaze.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\ModelUtpal.pdb
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\bin\x64\Debug\Tobii.Research.xml
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\obj\x64\Debug\RecordingEyeGaze.csprojResolveAssemblyReference.cache
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\obj\x64\Debug\RecordingEyeGaze.exe
+C:\Users\seife\Dropbox\bureau\VisualStudio\eyexPro\RecordingEyeGaze\RecordingEyeGaze\obj\x64\Debug\RecordingEyeGaze.pdb
